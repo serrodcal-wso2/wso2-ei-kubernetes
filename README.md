@@ -1,5 +1,7 @@
 # WSO2 Enterprise Integrator in Kubernetes
 
+![](/img/header.png)
+
 Proof of concept to look into WSO2 Enterprise Integrator 7 in a microservice strategy.
 
 ```sh
