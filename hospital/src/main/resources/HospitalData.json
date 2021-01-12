@@ -1,0 +1,16 @@
+[
+  {
+    "id": "SVQ001",
+    "name": "Hospital Universitario Virgen del Rocio",
+    "address": "Avenida Manuel Siurot",
+    "postalCode": "41013",
+    "city": "Sevilla"
+  },
+  {
+    "id": "SVQ002",
+    "name": "Hospital Universitario Virgen Macarena",
+    "address": "Calle Droctor Fedriani 3",
+    "postalCode": "41009",
+    "city": "Sevilla"
+  }
+]

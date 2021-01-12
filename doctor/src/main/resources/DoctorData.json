@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DOCTOR001",
+    "name": "Borja Perez Sierra",
+    "hospitalId": "SVQ001",
+    "specialty": "gynecologist"
+  },
+  {
+    "id": "DOCTOR002",
+    "name": "Jesus Medinilla",
+    "hospitalId": "SVQ002",
+    "specialty": "pediatrician"
+  },
+  {
+    "id": "DOCTOR003",
+    "name": "Joaquin de Vicente",
+    "hospitalId": "SVQ001",
+    "specialty": "traumatologist"
+  },
+  {
+    "id": "DOCTOR004",
+    "name": "Sergio Rodriguez Calvo",
+    "hospitalId": "SVQ002",
+    "specialty": "cardiologist"
+  }
+]
